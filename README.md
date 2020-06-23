@@ -1,23 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/th3unkn0n/OSI.IG/master/.lib/20191103_233944.jpg" width="300" height="120">
-</p>
-<p align="center"><img src="https://img.shields.io/badge/Version-1.2-brightgreen"></p>
-<p align="center">
-  <a href="https://github.com/th3unkn0n">
-    <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
-  </a>
-  <a href="https://github.com/th3unkn0n/osi.ig/stargazers">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/osi.ig?style=social">
-  </a>
-</p>
-<p align="center">
-  Open Source Information Instagram
+   Instagram Inforamtion Gathering Tool
 </p>
 
 ---
 
-* The Instagram OSINT Tool gets a range of information from an Instagram account that you normally wouldn't be able to get
-from just looking at their profile
+* The Instagram Inforamtion Gathering Tool gets a range of information from an Instagram account that you normally wouldn't be able to    get from just looking at their profile
 
 * The information includes:
 
@@ -33,7 +20,7 @@ from just looking at their profile
 
 `$ pkg install -y git`
 
-`$ git clone https://github.com/th3unkn0n/osi.ig.git && cd osi.ig`
+`$ git clone https://github.com/sanjidtk/iginfo && cd iginfo`
 
 `$ chmod +x install.sh && ./install.sh`
 
@@ -66,13 +53,12 @@ from just looking at their profile
 ---
 
 <p align="center">
-  Follow Me On
+  Catch me on
 </p>
-<p align="center">
-  <a href="https://youtube.com/theunknon">
-    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
-  </a>
-  <a href="https://instagram.com/th3unkn0n">
-    <img src="http://clipart-library.com/images_k/instagram-png-transparent/instagram-png-transparent-16.png" width="40" height="40">
-    </a>
-</p>
+  <p align="center">
+   Instagram https://instagram.com/mohsanjid
+   </p> 
+   <p align="center">
+   YouTube  https://youtube.com/c/PhotoLooz
+   </p>
+
