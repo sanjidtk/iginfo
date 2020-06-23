@@ -57,10 +57,11 @@
 <p align="center">
   Catch me on
 </p>
-  <p align="center" Instagram  https://instagram.com/mohsanjid>
+  <p align="center">Instagram  https://instagram.com/mohsanjid
    
-  </p> 
-  <p align="center" YouTube  https://youtube.com/c/PhotoLooz>
+</p> 
+  <p align="center"> YouTube   https://youtube.com/c/PhotoLooz
    
-  </p>
+</p>
 
+  
