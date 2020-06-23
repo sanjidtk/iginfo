@@ -18,6 +18,7 @@
 
 ## • How To Install
 
+`$ pkg install python3`
 `$ pkg install -y git`
 
 `$ git clone https://github.com/sanjidtk/iginfo && cd iginfo`
